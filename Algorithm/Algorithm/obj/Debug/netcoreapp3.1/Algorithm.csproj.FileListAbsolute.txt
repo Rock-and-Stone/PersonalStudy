@@ -1,0 +1,14 @@
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.exe
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.deps.json
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.json
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.dev.json
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.dll
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.pdb
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csproj.AssemblyReference.cache
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfoInputs.cache
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfo.cs
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.dll
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.pdb
+C:\Users\SJY\Desktop\Inflearn\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.genruntimeconfig.cache
